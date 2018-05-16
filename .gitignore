@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+console-style.so
+console-style.dylib
+console-style.dll
+console-style.a
+console-style.lib
+console-style-test-*
+*.exe
+*.o
+*.obj
+*.lst

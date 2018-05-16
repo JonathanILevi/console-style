@@ -1,0 +1,5 @@
+name "console-style"
+description "Color and style console text. Super simple."
+authors "Jonathan Levi"
+copyright "Copyright © 2018, Jonathan Levi"
+license "CC0"
